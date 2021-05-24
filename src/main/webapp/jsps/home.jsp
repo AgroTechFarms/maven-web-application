@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>agrotecfarms- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions.</h1>
+<h1 align="center">Welcome to Agrotechfarms.</h1>
 <h1 align="center"> agrotech farms is place where customer can sell this yield to anyone with out thired partin Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios trainer come CEO sHiva</h1>
 <hr>
 <br>
@@ -36,7 +36,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+91-9980923226
 		devopstrainingblr@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:agrotech.nijna@gmail.com">Mail to Mithun Technologies</a>
 	</span>
 </div>
 <hr>
