@@ -11,6 +11,10 @@ node
     {
         sh "${mavenHome}/bin/mvn sonar:sonar"
     }
+    stage('codecoverage')
+    {
+     jacoco()
+    }
     stage('uploadArtifcatintoNexus')
     {
         sh "${mavenHome}/bin/mvn deploy"    
