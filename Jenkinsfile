@@ -23,7 +23,7 @@ node
     {
         sshagent(['873fb9f7-4ccb-4775-92f1-6eac49063681'])
         {
-         sh "scp -o StrictHostKeyChecking=no target/maven-web-application.war ec2-user@15.206.28.20:/opt/apache-tomcat-9.0.45/webapps"
+         sh "scp -o StrictHostKeyChecking=no target/maven-web-application.war ec2-user@13.127.86.13:/opt/apache-tomcat-9.0.45/webapps"
         }
     }
     stage("SentEmailnotification")
