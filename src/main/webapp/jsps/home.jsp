@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Agrotechfarms.</h1>
-<h1 align="center"> agrotech farms is place where customer can sell this yield to anyone with out thired partin Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios trainer come CEO sHiva</h1>
+<h1 align="center"> agrotech farms is place where customer can sell this yield to anyone with out thired partin Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios trainer com CEO sHiva </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
