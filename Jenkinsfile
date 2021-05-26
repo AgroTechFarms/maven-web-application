@@ -1,4 +1,4 @@
-node
+node("slaves")
 {
     def mavenHome=tool name:'maven3.8.1'
     stage('checkout code from git'){
